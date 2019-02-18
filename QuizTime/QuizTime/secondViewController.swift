@@ -1,5 +1,5 @@
 //
-//  QuestionsBank.swift
+//  secondViewController.swift
 //  QuizTime
 //
 //  Created by Разработчик on 12.02.2019.
